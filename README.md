@@ -1,32 +1,22 @@
-# Shark_attack
+![image](https://github.com/pedrolaender/01.Ironhack_Game_Project/blob/main/images/game.jpg?raw=true)
 
-# Project Name
+# Game Project
 
-  Project status(Active, On-Hold, Completed)
-# Project objective
+  Project completed.
+## Abstract
 
-  Paragraph with introduction/ objective of project
-# Methods
+  This is an introductory project whose main objective is to exercise coding in Python.
+## Methods
 
-  List with methods, ex:
-  - Filtering
-  - Grouping
-  - Visualization
-# Technologies 
+  - Object-Oriented Programming.
+## Technologies 
 
-  List with used technologies, ex:
   - Python
-  - Pandas
-  - MySQL
-# Project Description
+## Project Description
 
-  Paragraph with a description of the dataset, sources, characteristics ,etc.
+  This project consists of a Guessing Game wich the computer generates a random number between 1 and 100 that the player has to guess before he runs out of tries.
+## Contact
 
-# Steps
-  Add here any insights you had during the project
-
-# Conclusion
-  Final conclusion
+  Pedro Laender
   
-# Contact
-  linkedin, github, medium, etc 
+  Github - (https://github.com/pedrolaender)
